@@ -1,3 +1,3 @@
 # test
 sample
-hi This my first Git Repo!!
+hi This my first Git Repo!!, few changes.
